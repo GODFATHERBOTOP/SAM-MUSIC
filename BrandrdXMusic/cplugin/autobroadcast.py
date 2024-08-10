@@ -43,7 +43,7 @@ MESSAGE = f"""**๏ ᴛʜɪs ɪs ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ᴘʟᴀʏ
 
 🔐ᴜꜱᴇ » [/start](https://t.me/QUEENMUSIC0143BOT?start=help) ᴛᴏ ᴄʜᴇᴄᴋ ʙᴏᴛ
 
-➲ ʙᴏᴛ :** @BRANDED_KUDI_BOT"""
+➲ ʙᴏᴛ :** @QUEENMUSIC0143BOT"""
 
 BUTTON = InlineKeyboardMarkup(
     [
